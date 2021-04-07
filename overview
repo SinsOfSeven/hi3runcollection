@@ -1,0 +1,25 @@
+This web application will attempt to be an alternative to the website 3rdguide.com
+specifically for searching and previewing competitive videos and lineups.
+
+The first major goal is to support Memorial arena run data.
+	-Requires, front<->back communication and back<->db queries.
+	-Support searching (checkbox menu) for run data.
+	-Support creating new run entries (validation later).
+	-Cliet-side interpretation of posted values.
+  
+Client Features Goals
+	-support multiple languages
+	-support markdown
+    
+Webapp goals
+	-support other entry types
+		-support abyss
+		-support simbattles
+		-support perma challanges
+		-support events*
+		-support misc guides (ex:time fracture guide)
+	-create pleasing user interfaces
+	-create a user-friendly submission page
+		-has info about submission
+		-has levels of detail (can provide extreme details)
+		-make pretty pictures from offical sources
