@@ -1,0 +1,91 @@
+{
+	"Types":{
+		"Pistols"{
+			"2Star":[],
+			"3Star":[],
+			"4Star":[],
+			"Befall":[
+			"Alloy Hurricanes",
+			"Alloy Dominators",
+			"Hurricanes",
+			"Dominators",
+			],
+			"5Star-Notcha":[],
+			"5Star":[],
+			"PRI-ARMS":[]
+		},
+		"Blades":{
+			"2Star":[],
+			"3Star":[],
+			"4Star":[],
+			"Befall":[
+			"Alloy Gluttony",
+			"Alloy Anemoi",
+			"Gluttony",
+			"Anemoi",
+			],
+			"5Star-Notcha":[],
+			"5Star":[],
+			"PRI-ARMS":[]			
+		},
+		"Cannons":{
+			"2Star":[],
+			"3Star":[],
+			"4Star":[],
+			"Befall":[
+			"Alloy Lurker",
+			"Alloy Devourer",
+			"Lurker",
+			"Devourer",
+			],
+			"5Star-Notcha":[],
+			"5Star":[],
+			"PRI-ARMS":[]			
+		},
+		"Greatswords":{
+			"2Star":[],
+			"3Star":[],
+			"4Star":[],
+			"Befall":[
+			"Alloy Wotan's Cleaver",
+			"Alloy Betrayer",
+			"Wotan's Cleaver",
+			"Betrayer",
+			],
+			"5Star-Notcha":[],
+			"5Star":[],
+			"PRI-ARMS":[]
+		},
+		"Crosses":{
+			"2Star":[],
+			"3Star":[],
+			"4Star":[],
+			"5Star-Notcha":[],
+			"5Star":[],
+			"PRI-ARMS":[]			
+		},
+		"Gauntlets":{
+			"2Star":[],
+			"3Star":[],
+			"4Star":[],
+			"5Star-Notcha":[],
+			"5Star":[],
+			"PRI-ARMS":[]
+		},
+		"Scythes":{
+			"2Star":[],
+			"3Star":[],
+			"4Star":[],
+			"5Star-Notcha":[],
+			"5Star":[],
+			"PRI-ARMS":[]
+		},
+		"Lances":{
+			"3Star":[],
+			"4Star":[],
+			"5Star-Notcha":[],
+			"5Star":[],
+			"PRI-ARMS":[]
+		}
+	}
+}

@@ -1,0 +1,162 @@
+{
+	"game modes":{
+		"Memorial Arena" : {
+			"Type":[
+					"Exalted",
+					"Masters",
+					"Elites",
+					"Basics"
+			]
+			"Boss":[
+			{"name":"Dark Jixuanyuan","nicknames":["DXY"]},
+			{"name":"Deathly Doom","nicknames":["Doom"]},
+			{"name":"Benares","nicknames":["Benny","Bella"]},
+			{"name":"Aesir Heimdall","nicknames":["Aesir","Heimdall","Heim"]},
+			{"name":"Parvati","nicknames":["Parv","Ice Pig"]},
+			{"name":"Herrscher of the Void","nicknames":["HoV","GK"]},
+			{"name":"Jizo Mitama","nicknames":["Jizo"]},
+			{"name":"RPC-6626","nicknames":["RPC"]},
+			{"name":"Assaka","nicknames":["Master Hands JK lmao"]},
+			{"name":"Hellmaru","nicknames":["Hell"]},
+			{"name":"HOMU Emperor","nicknames":["HOMU"]},
+			{"name":"Padrino Legion","nicknames":["Pad"]},
+			{"name":"MHT-3 Pax","nicknames":["MHT","Pax","Tank"]},
+			{"name":"Argent Knight - Artemis","nicknames":["AKA","Ice Rita"]},
+			{"name":"Shadow Knight","nicknames":["SK"]},
+			{"name":"Hephaestus","nicknames":["Heph"]},
+			{"name":"Mexicatl - Umbreist","nicknames":["Ball","Meximelt?","Qua Sphere"]},
+			{"name":"Tonatiuh","nicknames":["Tona","Lobster"]},
+			{"name":"Bright Knight - Excelsis","nicknames":["BKE"]},
+			{"name":"Kallen","nicknames":["Karen"]},
+			{"name":"Beast of Yang - Huodou","nicknames":["Huodou"]},
+			{"name":"Herrscher of Rimestar","nicknames":["Rimestar"]},
+			{"name":"Couatl: Revenant","nicknames":["Couatl"]}
+			],
+			"Boss Rank":["SS","S","A","B","C"],
+			"+20%Score":1000
+			
+		},
+		"Abyss": {
+			"Type":[
+				"Super String",
+				"Q-Singularity Masters",
+				"Dirac Sea Masters",
+				"Q-Singularity Elites",
+				"Dirac Sea Elites",
+				"Q-Singularity Basics",
+				"Dirac Sea Basics",
+				"Infinity Abyss?"
+			],
+			"Boss":[],
+			"Weather":[
+				"",
+				"w2",
+				"etc",
+			],
+			"Temperature": 1000
+			
+		},
+		"SimBattle":{
+			"Boss Lineup":[
+				"s1",
+				"s2",
+				"etc."
+			],
+			"trial valks": true
+		},
+		"Character Trials":[
+			"Stalker's Emblem":[1,2,3,4,5,6,7,8,9,10],
+			"Striker's Emblem":[1,2,3,4,5,6,7,8,9,10],
+			"Emerging Stars":[1,2,3,4,5],
+			"Tales of Gemina":[1,2,3,4,5],
+			"The Deep Sea":[1,2,3,4,5,6,7,8,9,10],
+			"Stress Test":{
+				"I":["E1","E2","E3",1,2,3,4,5,6],
+				"II":["E1","E2","E3",1,2,3,4],
+				"III":["E1","E2","E3","E4",1,2,3,4,5,6,7],
+				"IV":["E1","E2","E3","E4",1,2,3,4,5],
+				"V":["E1","E2","E3",1,2,3,4,5],
+				"VI":[1,2,3,4,5,6,7]
+			}
+		],
+		"Dark Archives":{
+			"Herrscer Files":[1,2,3,4,5,6,7,8,9,10],
+			"Aesir Files":[1,2,3,4,5,6,7,8,9,10]
+		},
+		"Generic Events":"empty"
+	},
+		
+	"Player Team":{
+		"Leader":{
+			"Name":"",
+			"Nicknames":"",
+			"Rank":[10,20,30,31,32,33,40,41,42,43,50]
+			"Gear":{
+				"Weapon":{
+					"Name":"",
+					"Level":50,
+				},
+				"Top":{
+					"Name":"",
+					"Level":50,
+				},
+				"Middle":{
+					"Name":"",
+					"Level":50,
+				},
+				"Bottom":{
+					"Name":"",
+					"Level":50,
+				}
+			}
+		},
+		"Valk2":{
+			"Name":"",
+			"Nicknames":"",
+			"Rank":[10,20,30,31,32,33,40,41,42,43,50]
+			"Gear":{
+				"Weapon":{
+					"Name":"",
+					"Level":50,
+				},
+				"Top":{
+					"Name":"",
+					"Level":50,
+				},
+				"Middle":{
+					"Name":"",
+					"Level":50,
+				},
+				"Bottom":{
+					"Name":"",
+					"Level":50,
+				}
+			}
+		},
+		"Valk3":{
+			"Name":"",
+			"Nicknames":"",
+			"Rank":[10,20,30,31,32,33,40,41,42,43,50]
+			"Gear":{
+				"Weapon":{
+					"Name":"",
+					"Level":50,
+				},
+				"Top":{
+					"Name":"",
+					"Level":50,
+				},
+				"Middle":{
+					"Name":"",
+					"Level":50,
+				},
+				"Bottom":{
+					"Name":"",
+					"Level":50,
+				}
+			}
+		},
+		"Friend Leader":[],
+		"Additional Bonuses":{}
+	}
+}

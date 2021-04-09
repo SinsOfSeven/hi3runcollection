@@ -1,0 +1,490 @@
+[
+	{
+		"abb.": "AK*",
+		"alt abb.": "AKA",
+		"full name": "Argent Knight: Artemis",
+		"alt name†": "Ice Rita",
+		"base rank": "S",
+		"augment of": ""
+	},
+	{
+		"abb.": "AE",
+		"alt abb.": "",
+		"full name": "Azure Empyrea",
+		"alt name†": "Ink Hua",
+		"base rank": "S",
+		"augment of": ""
+	},
+	{
+		"abb.": "BS",
+		"alt abb.": "",
+		"full name": "Battle Storm",
+		"alt name†": "",
+		"base rank": "B",
+		"augment of": ""
+	},
+	{
+		"abb.": "BN",
+		"alt abb.": "",
+		"full name": "Black Nucleus",
+		"alt name†": "",
+		"base rank": "S",
+		"augment of": ""
+	},
+	{
+		"abb.": "BR",
+		"alt abb.": "",
+		"full name": "Blood Rose",
+		"alt name†": "",
+		"base rank": "S",
+		"augment of": ""
+	},
+	{
+		"abb.": "BB",
+		"alt abb.": "",
+		"full name": "Blueberry Blitz",
+		"alt name†": "Liliya or Lili",
+		"base rank": "A",
+		"augment of": ""
+	},
+	{
+		"abb.": "BH",
+		"alt abb.": "",
+		"full name": "Blazing Hope",
+		"alt name†": "Asuka",
+		"base rank": "A",
+		"augment of": ""
+	},
+	{
+		"abb.": "BK",
+		"alt abb.": "BKE",
+		"full name": "Bright Knight: Excelsis",
+		"alt name†": "",
+		"base rank": "S",
+		"augment of": ""
+	},
+	{
+		"abb.": "CH",
+		"alt abb.": "",
+		"full name": "Celestial Hymn",
+		"alt name†": "",
+		"base rank": "S",
+		"augment of": ""
+	},
+	{
+		"abb.": "CI",
+		"alt abb.": "",
+		"full name": "Crimson Impulse",
+		"alt name†": "",
+		"base rank": "B",
+		"augment of": ""
+	},
+	{
+		"abb.": "DA",
+		"alt abb.": "",
+		"full name": "Dea Anchora",
+		"alt name†": "",
+		"base rank": "S",
+		"augment of": ""
+	},
+	{
+		"abb.": "DS",
+		"alt abb.": "",
+		"full name": "Danzai Spectramancer",
+		"alt name†": "",
+		"base rank": "A",
+		"augment of": "SD - Shadow Dash"
+	},
+	{
+		"abb.": "DJ",
+		"alt abb.": "",
+		"full name": "Darkbolt Jonin",
+		"alt name†": "",
+		"base rank": "A",
+		"augment of": ""
+	},
+	{
+		"abb.": "DB",
+		"alt abb.": "",
+		"full name": "Dimension Breaker",
+		"alt name†": "",
+		"base rank": "S",
+		"augment of": ""
+	},
+	{
+		"abb.": "DP",
+		"alt abb.": "",
+		"full name": "Divine Prayer",
+		"alt name†": "",
+		"base rank": "A",
+		"augment of": ""
+	},
+	{
+		"abb.": "DK",
+		"alt abb.": "",
+		"full name": "Drive Kometa",
+		"alt name†": "",
+		"base rank": "A",
+		"augment of": "YA - Yamabuki Armor"
+	},
+	{
+		"abb.": "FR",
+		"alt abb.": "",
+		"full name": "Fallen Rosemary",
+		"alt name†": "",
+		"base rank": "S",
+		"augment of": ""
+	},
+	{
+		"abb.": "FT",
+		"alt abb.": "Δ† or FTD†",
+		"full name": "Fervent Tempo Δ",
+		"alt name†": "Delta or Roza Aug",
+		"base rank": "S",
+		"augment of": "MC - Molotov Cherry"
+	},
+	{
+		"abb.": "FS",
+		"alt abb.": "",
+		"full name": "Flame Sakitama",
+		"alt name†": "",
+		"base rank": "A",
+		"augment of": ""
+	},
+	{
+		"abb.": "GM*",
+		"alt abb.": "Miko",
+		"full name": "Gyakushinn Miko",
+		"alt name†": "",
+		"base rank": "S",
+		"augment of": ""
+	},
+	{
+		"abb.": "HF",
+		"alt abb.": "HotF†",
+		"full name": "Hawk of the Fog",
+		"alt name†": "Fog Hua",
+		"base rank": "A",
+		"augment of": "VA - Valkyrie Accipiter"
+	},
+	{
+		"abb.": "HR",
+		"alt abb.": "HoR",
+		"full name": "Herrscher of Reason",
+		"alt name†": "Tronya",
+		"base rank": "S",
+		"augment of": ""
+	},
+	{
+		"abb.": "HS",
+		"alt abb.": "HoS",
+		"full name": "Herrscher of Sentiance",
+		"alt name†": "",
+		"base rank": "S",
+		"augment of": ""
+	},
+	{
+		"abb.": "HV",
+		"alt abb.": "HoV or GK",
+		"full name": "Herrscher of the Void",
+		"alt name†": "God Kiana",
+		"base rank": "S",
+		"augment of": ""
+	},
+	{
+		"abb.": "HT",
+		"alt abb.": "HoT",
+		"full name": "Herrscher of Thunder",
+		"alt name†": "",
+		"base rank": "S",
+		"augment of": ""
+	},
+	{
+		"abb.": "RI",
+		"alt abb.": "IR",
+		"full name": "Ritual Imayoh",
+		"alt name†": "Imayoh Ritual",
+		"base rank": "A",
+		"augment of": ""
+	},
+	{
+		"abb.": "KM*",
+		"alt abb.": "KMB",
+		"full name": "Knight Moonbeam",
+		"alt name†": "",
+		"base rank": "S",
+		"augment of": ""
+	},
+	{
+		"abb.": "KR*",
+		"alt abb.": "AK†",
+		"full name": "Kriegsmesser",
+		"alt name†": "Krieg(s)",
+		"base rank": "S",
+		"augment of": ""
+	},
+	{
+		"abb.": "LE",
+		"alt abb.": "",
+		"full name": "Lightning Empress",
+		"alt name†": "",
+		"base rank": "S",
+		"augment of": ""
+	},
+	{
+		"abb.": "LK",
+		"alt abb.": "",
+		"full name": "Luna Kindred",
+		"alt name†": "",
+		"base rank": "A",
+		"augment of": ""
+	},
+	{
+		"abb.": "MM*",
+		"alt abb.": "Meme or UA†",
+		"full name": "Goushinnso Memento",
+		"alt name†": "Unforgotten Apostle",
+		"base rank": "S",
+		"augment of": ""
+	},
+	{
+		"abb.": "MC",
+		"alt abb.": "",
+		"full name": "Molotov Cherry",
+		"alt name†": "Rozaliya or Roza",
+		"base rank": "S",
+		"augment of": ""
+	},
+	{
+		"abb.": "NS",
+		"alt abb.": "",
+		"full name": "Night Squire",
+		"alt name†": "",
+		"base rank": "A",
+		"augment of": ""
+	},
+	{
+		"abb.": "PI",
+		"alt abb.": "",
+		"full name": "Phantom Iron",
+		"alt name†": "",
+		"base rank": "A",
+		"augment of": ""
+	},
+	{
+		"abb.": "PX",
+		"alt abb.": "PHX†",
+		"full name": "Phoenix",
+		"alt name†": "Nix†",
+		"base rank": "S",
+		"augment of": ""
+	},
+	{
+		"abb.": "SR",
+		"alt abb.": "",
+		"full name": "Sakuno Rondo",
+		"alt name†": "",
+		"base rank": "A",
+		"augment of": ""
+	},
+	{
+		"abb.": "SF",
+		"alt abb.": "",
+		"full name": "Scarlet Fusion",
+		"alt name†": "",
+		"base rank": "A",
+		"augment of": ""
+	},
+	{
+		"abb.": "SD",
+		"alt abb.": "",
+		"full name": "Shadow Dash",
+		"alt name†": "",
+		"base rank": "A",
+		"augment of": ""
+	},
+	{
+		"abb.": "SK",
+		"alt abb.": "",
+		"full name": "Shadow Knight",
+		"alt name†": "",
+		"base rank": "S",
+		"augment of": ""
+	},
+	{
+		"abb.": "6S",
+		"alt abb.": "",
+		"full name": "Sixth Serenade",
+		"alt name†": "",
+		"base rank": "S",
+		"augment of": ""
+	},
+	{
+		"abb.": "SS",
+		"alt abb.": "S2** ",
+		"full name": "Snowy Sniper",
+		"alt name†": "SSnowy(SS+ Rank)",
+		"base rank": "A",
+		"augment of": ""
+	},
+	{
+		"abb.": "SA",
+		"alt abb.": "",
+		"full name": "Starlit Astrologos",
+		"alt name†": "",
+		"base rank": "A",
+		"augment of": ""
+	},
+	{
+		"abb.": "SN",
+		"alt abb.": "",
+		"full name": "Stygian Nymph",
+		"alt name†": "",
+		"base rank": "S",
+		"augment of": ""
+	},
+	{
+		"abb.": "SP",
+		"alt abb.": "ST**",
+		"full name": "Swallowtail Phantasm",
+		"alt name†": "",
+		"base rank": "A",
+		"augment of": ""
+	},
+	{
+		"abb.": "SJ",
+		"alt abb.": "",
+		"full name": "Sündenjäger",
+		"alt name†": "",
+		"base rank": "A",
+		"augment of": ""
+	},
+	{
+		"abb.": "TP",
+		"alt abb.": "",
+		"full name": "Twilight Paladin",
+		"alt name†": "",
+		"base rank": "S",
+		"augment of": "VE - Violet Executer"
+	},
+	{
+		"abb.": "UR",
+		"alt abb.": "",
+		"full name": "Umbral Rose",
+		"alt name†": "",
+		"base rank": "A",
+		"augment of": ""
+	},
+	{
+		"abb.": "VA",
+		"alt abb.": "",
+		"full name": "Valkyrie Accipiter",
+		"alt name†": "",
+		"base rank": "A",
+		"augment of": ""
+	},
+	{
+		"abb.": "VB",
+		"alt abb.": "",
+		"full name": "Valkyrie Bladestrike",
+		"alt name†": "",
+		"base rank": "A",
+		"augment of": ""
+	},
+	{
+		"abb.": "VS*",
+		"alt abb.": "VBSF† or StFu†",
+		"full name": "Striker Fulminata",
+		"alt name†": "",
+		"base rank": "A",
+		"augment of": "VB - Valkyrie Bladestrike"
+	},
+	{
+		"abb.": "VC",
+		"alt abb.": "",
+		"full name": "Valkyrie Chariot",
+		"alt name†": "",
+		"base rank": "B",
+		"augment of": ""
+	},
+	{
+		"abb.": "VG",
+		"alt abb.": "",
+		"full name": "Valkyrie Gloria",
+		"alt name†": "",
+		"base rank": "A",
+		"augment of": ""
+	},
+	{
+		"abb.": "VP",
+		"alt abb.": "",
+		"full name": "Valkyrie Pledge",
+		"alt name†": "",
+		"base rank": "A",
+		"augment of": ""
+	},
+	{
+		"abb.": "VR",
+		"alt abb.": "",
+		"full name": "Valkyrie Ranger",
+		"alt name†": "",
+		"base rank": "A",
+		"augment of": ""
+	},
+	{
+		"abb.": "VT",
+		"alt abb.": "",
+		"full name": "Valkyrie Triumph",
+		"alt name†": "",
+		"base rank": "A",
+		"augment of": ""
+	},
+	{
+		"abb.": "VK",
+		"alt abb.": "VKE",
+		"full name": "Vermilion Knight: Eclipse",
+		"alt name†": "",
+		"base rank": "S",
+		"augment of": ""
+	},
+	{
+		"abb.": "VE",
+		"alt abb.": "",
+		"full name": "Violet Executer",
+		"alt name†": "",
+		"base rank": "S",
+		"augment of": ""
+	},
+	{
+		"abb.": "VD",
+		"alt abb.": "",
+		"full name": "Void Drifter",
+		"alt name†": "",
+		"base rank": "A",
+		"augment of": "VR - Valkyrie Ranger"
+	},
+	{
+		"abb.": "WC",
+		"alt abb.": "",
+		"full name": "White Comet",
+		"alt name†": "",
+		"base rank": "B",
+		"augment of": ""
+	},
+	{
+		"abb.": "WD",
+		"alt abb.": "",
+		"full name": "Wolf's Dawn",
+		"alt name†": "",
+		"base rank": "A",
+		"augment of": ""
+	},
+	{
+		"abb.": "YA",
+		"alt abb.": "",
+		"full name": "Yamabuki Armor",
+		"alt name†": "",
+		"base rank": "A",
+		"augment of": ""
+	}
+]

@@ -1,0 +1,35 @@
+{
+	"Sets":{
+		"2Star":[
+			"Selena",
+			"Charlotte"
+		],
+		"3Star":[
+			"Hannah",
+			"Octavia",
+			"Lucia",
+			"Viola",
+			"Victoria"
+		],
+		"4Star":[
+			{"Name":"Elizabeth Bathory", "ShortHand":"EBath"},
+			"Kitten Fun"
+		],
+		"5Star-Notcha":[
+			
+		],
+		"5Star":[
+			
+		]
+	},
+	"Singles":{
+		"4Star":[
+			{"Name":"Starlit Swing","Slot":2},
+			{"Name":"Bronya's Birthday","Slot":2}
+		],
+		"5Star-Notcha":[
+			{"Name":"Theresa: Gluttony","Slot":1},
+			{"Name":"Yae Sakura: Peaches","Slot":3},
+		],
+	}
+}
