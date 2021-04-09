@@ -23,3 +23,24 @@ Webapp goals
 		-has info about submission
 		-has levels of detail (can provide extreme details)
 		-make pretty pictures from offical sources
+
+NOTES
+	Representing Data with JSON
+		Universal
+		Flexible
+		Simple
+		Generation
+	Server using Node.js
+		express
+		nodemon
+		dotenv
+		mongoose
+		cors
+	Client (expected) use
+		React -or- Vue
+		Heavy use of JSON
+		Heavy use of Image resources(eventually)
+		Embedding Videos
+		Markdown formating stretch goal
+		
+		
