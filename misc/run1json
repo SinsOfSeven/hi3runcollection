@@ -1,0 +1,75 @@
+{
+    "runTitle":"Run #1 json test",
+    "gameMode":{
+        "mode":"Memorial Arena",
+        "bracket":"Exalted",
+        "bossName":"Hellmaru"
+    },
+    "teamComp":{
+        "leader":{
+            "name":"Lighting Empress",
+            "rank":"SSS",
+            "rankNum":5,
+            "w":{
+                "name":"Muramasa Bloodlust",
+                "lvl":35
+            },
+            "t":{
+                "set":"Jinsheng Tan",
+                "lvl":50
+            },
+            "m":{
+                "set":"Jinsheng Tan",
+                "lvl":50
+            },
+            "b":{
+                "set":"Issac Newton",
+                "lvl":50
+            }
+        },
+        "sub1":{
+            "name":"Haxxor Bronya",
+            "rank":"SSS",
+            "rankNum":5,
+            "w":{
+                "name":"Bunny Crusher 19-C",
+                "lvl":35
+            },
+            "t":{
+                "set":"Turgeneve",
+                "lvl":50
+            },
+            "m":{
+                "set":"Turgeneve",
+                "lvl":50
+            },
+            "b":{
+                "set":"Turgeneve",
+                "lvl":50
+            }
+        },
+        },
+        "sub2":{
+            "name":"Starchasm Nyx",
+            "rank":"S.1",
+            "rankNum":3,
+            "w":{
+                "name":"Sanguine Gaze : Union",
+                "lvl":65
+            },
+            "t":{
+                "set":"Juleus Verne",
+                "lvl":50
+            },
+            "m":{
+                "set":"Juleus Verne",
+                "lvl":50
+            },
+            "b":{
+                "set":"Juleus Verne",
+                "lvl":50
+            }
+        },
+        }
+    },
+}
