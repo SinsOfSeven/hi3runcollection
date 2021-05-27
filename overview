@@ -23,6 +23,11 @@ Webapp goals
 		-has info about submission
 		-has levels of detail (can provide extreme details)
 		-make pretty pictures from offical sources
+	-preview meta-data for specific runs
+		research React Meta Data
+		Discord Webhooks
+		Discord Webpreview Meta Data Tags
+	-team preview editor.
 
 NOTES
 	Representing Data with JSON
@@ -43,4 +48,11 @@ NOTES
 		Embedding Videos
 		Markdown formating stretch goal
 		
+		
+New First Goal, Create a singular run JSON
+Convert the data into a webpage and serve that page.
+	-this will help me overcome the data wall
+	-I can use what I learn to handle the details
+	-then I can focus on the run searcher and storage.
+	-plus I work on the overall look of the final webapp.
 		
